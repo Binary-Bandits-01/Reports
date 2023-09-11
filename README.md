@@ -1,6 +1,6 @@
 # Reports
 
-- final report
+- project report (assignment as well)
 
 <br>
 
