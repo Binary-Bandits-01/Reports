@@ -8,7 +8,7 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 
 [Report: Target 10.0.0.74](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.74.pdf)
 
-[Report: Target 10.0.0.82]()
+[Report: Target 10.0.0.82](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.82.pdf)
 
 [Report: Target 10.0.0.126]()
 
