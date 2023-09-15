@@ -6,6 +6,10 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 
 [Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
 
+<details>
+<summary>Individual Target Reports</summary>
+<br>
+  
 [Report: Target 10.0.0.74](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.74.pdf)
 
 [Report: Target 10.0.0.82](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.82.pdf)
@@ -17,6 +21,9 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 [Report: Target 10.0.0.197](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.197.pdf)
 
 [Report: Target 10.0.0.206](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.206.pdf)
+</details>
+
+
 
 <br>
 
@@ -24,8 +31,24 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 
 The Offensive Security Report provides a comprehensive overview of our Red Team operation. It includes details on our methodology, findings, vulnerabilities discovered, and recommended mitigation strategies. You can access the full report for an in-depth understanding of our assessments.
 
-- [Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
+[Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
 
+<details>
+<summary>Individual Target Reports</summary>
+<br>
+  
+[Report: Target 10.0.0.74](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.74.pdf)
+
+[Report: Target 10.0.0.82](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.82.pdf)
+
+[Report: Target 10.0.0.126](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.126.pdf)
+
+[Report: Target 10.0.0.175](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.175.pdf)
+
+[Report: Target 10.0.0.197](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.197.pdf)
+
+[Report: Target 10.0.0.206](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_Target_Reports/Report%20of%20Target%2010.0.0.206.pdf)
+</details>
 
 <br>
 
