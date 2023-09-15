@@ -6,6 +6,18 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 
 [Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
 
+[Report: Target 10.0.0.74](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.74.pdf)
+
+[Report: Target 10.0.0.82]()
+
+[Report: Target 10.0.0.126]()
+
+[Report: Target 10.0.0.175]()
+
+[Report: Target 10.0.0.197]()
+
+[Report: Target 10.0.0.206]()
+
 <br>
 
 ## Offensive Security Report
