@@ -10,13 +10,13 @@ Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This 
 
 [Report: Target 10.0.0.82](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.82.pdf)
 
-[Report: Target 10.0.0.126]()
+[Report: Target 10.0.0.126](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.126.pdf)
 
-[Report: Target 10.0.0.175]()
+[Report: Target 10.0.0.175](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.175.pdf)
 
-[Report: Target 10.0.0.197]()
+[Report: Target 10.0.0.197](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.197.pdf)
 
-[Report: Target 10.0.0.206]()
+[Report: Target 10.0.0.206](https://github.com/Binary-Bandits-01/Reports/blob/main/Individual_IP_Reports/Report%20of%20Target%2010.0.0.206.pdf)
 
 <br>
 
