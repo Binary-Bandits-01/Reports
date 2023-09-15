@@ -1,7 +1,19 @@
 # Reports
-This GitHub repository is a dedicated resource for housing Red Team reports and post-operation analyses.
+
+Welcome to the Binary Bandits 01 Reports section of our GitHub repository. This section is dedicated to housing Red Team reports and post-operation analyses. Below, you'll find links to our offensive security reports and analyses.
+
+## Table of Contents
 
 [Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
+
+<br>
+
+## Offensive Security Report
+
+The Offensive Security Report provides a comprehensive overview of our Red Team operation. It includes details on our methodology, findings, vulnerabilities discovered, and recommended mitigation strategies. You can access the full report for an in-depth understanding of our assessments.
+
+- [Offensive Security Report](https://github.com/Binary-Bandits-01/Reports/blob/main/01.%20Report%20-%20Offensive%20Security.pdf)
+
 
 <br>
 
